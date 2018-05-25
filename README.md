@@ -14,12 +14,16 @@ step 2. Access the corporation and application info from the WeiXin Corporation 
 * corpsecret
 * Agentid
 
-step 3. Check Library
+step 3. Check Library on your computer or server host the alram notification program.
 ```
 sudo apt-get install libssl-dev
 sudo pip install -U configparser requests simplejson
 ```
-Step.4 Try the Example: notification_weixin_example.py
+
+Step 4. Download and login WeiXin(work) at your phone.
+ [WeiXin for Work](https://pc.qq.com/detail/14/detail_22554.html)
+
+Step.5 Try the Example: notification_weixin_example.py
 
 ## References:
 * [Zabbix使用微信发送告警（附Python代码）](http://www.ttlsa.com/zabbix/use-wechat-send-zabbix-msg/)
