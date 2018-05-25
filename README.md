@@ -1,4 +1,4 @@
-# Use WeChat to Sent Notification.
+# Use WeChat(Corp.) for Alarm Notification.
 Here's  the module for WeiXin(Corp.) messsange notification.
 1. "notification_weixin_example.py" is an example.
 2. Or, you can import the weixin_alarm as an object in your code.
