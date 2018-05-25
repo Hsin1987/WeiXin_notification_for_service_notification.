@@ -1,5 +1,14 @@
 # Use WeChat to Sent Notification.
-step 1. Register a WeiXin Corporation Account. （Free and easily for small biz <less than 200 people.>）
+Here's  the module for WeiXin(Corp.) messsange notification.
+1. "notification_weixin_example.py" is an example.
+2. Or, you can import the weixin_alarm as an object in your code.
+The file, test.py is for refernce.
+
+## Preparation
+step 1. Register a WeiXin Corporation Account.
+
+ ※ Free and easily to setup for small biz <less than 200 people.>
+
 step 2. Access the corporation and application info from the WeiXin Corporation Web Page.：
 * corpid
 * corpsecret
